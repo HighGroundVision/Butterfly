@@ -6,12 +6,13 @@
     <title>Butterfly</title>
 
     <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://bootswatch.com/3/superhero/bootstrap.min.css" />
-
+    
     <environment include="Development">
+        <link rel="stylesheet" href="~/css/superhero-bootstrap.css" asp-append-version="true" />
         <link rel="stylesheet" href="~/css/site.css" />
     </environment>
     <environment exclude="Development">
+        <link rel="stylesheet" href="~/css/superhero-bootstrap.min.css" asp-append-version="true" />
         <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
     </environment>
 </head>
@@ -52,9 +53,11 @@
 
     <environment include="Development">
         <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/js/moment.js" asp-append-version="true"></script>
     </environment>
     <environment exclude="Development">
         <script src="~/js/site.min.js" asp-append-version="true"></script>
+        <script src="~/js/moment.min.js" asp-append-version="true"></script>
     </environment>
 
     @RenderSection("Scripts", required: false)

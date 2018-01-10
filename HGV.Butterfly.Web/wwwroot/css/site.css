@@ -9,3 +9,15 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.team-radaint {
+    color: #129914;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.team-dire {
+    color: #aa1414;
+    font-weight: bold;
+    font-size: 1.5em;
+}
