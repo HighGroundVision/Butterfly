@@ -17,6 +17,7 @@
     "bootstrap": "^4.0.0-beta.2",
     "bootstrap-vue": "latest",
     "least-squares": "0.0.2",
+    "line-intersect": "^2.1.1",
     "popper.js": "^1.12.9",
     "vue": "^2.5.2",
     "vue-google-charts": "^0.2.2",

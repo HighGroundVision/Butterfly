@@ -7,7 +7,7 @@
           <b-navbar-brand to="/">[HGV] Team Coordinator</b-navbar-brand>
           <b-collapse is-nav id="nav_collapse">
             <b-navbar-nav class="mr-auto">
-              <b-nav-item to="/draft">Draft</b-nav-item>
+              <b-nav-item to="/draft">Draft Strength</b-nav-item>
             </b-navbar-nav>
           </b-collapse>
         </b-container>
