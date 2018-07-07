@@ -21,7 +21,7 @@
     </b-row>
     <b-row v-if="!full">
       <b-col>
-        <draggable v-model="heroes" :options="{group:'heroes'}" >
+        <draggable v-model="heroes" :options="{group:'heroes', sort: false}" >
           <template v-for="hero in pool">
             <b-img v-bind:key="hero.id" :src="hero.icon" :title="hero.name" @click="select(hero)" />
           </template>
@@ -365,7 +365,9 @@ export default {
       return heroes
     },
     full () {
-      return (this.heroes.length === 105)
+      let radiant = this.teams.radiant.safe.length + this.teams.radiant.mid.length + this.teams.radiant.off.length
+      let dire = this.teams.dire.safe.length + this.teams.dire.mid.length + this.teams.dire.off.length
+      return (radiant === 5 && dire === 5)
     }
   },
   data () {

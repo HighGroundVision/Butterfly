@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Hello from '@/components/Hello'
-import Draft from '@/components/Draft'
+import DraftStrength from '@/components/DraftStrength'
 
 Vue.use(Router)
 
@@ -13,9 +13,9 @@ export default new Router({
       component: Hello
     },
     {
-      path: '/draft',
-      name: 'Draft',
-      component: Draft
+      path: '/draft/strength',
+      name: 'DraftStrength',
+      component: DraftStrength
     }
   ]
 })
