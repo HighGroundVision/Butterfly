@@ -5,18 +5,19 @@
         <h1>Drafting <small>Strength</small></h1>
       </b-col>
     </b-row>
-    <b-row>
+    <b-row  v-if="!calculated">
       <b-col>
         <p>
-          Drafting Strength analysis is a complex topic. 
           We at [HGV] tend to refer to this tool internaly as the "How Fucked Are We" (or HFAW for short). 
-          To understand this we will explain how the tool works. 
+          Drafting strength analysis is a complex topic and this tool dose not cover it all.
           You start by selecting the heroes. 
           You then order them (using Drag & Drop) into the lanes based on the start of match.
           After you hit that Calculate button a few things will happen.
           We will break down your team's strenght vs the enemy team over time, we went one step farther and graphed the result.
           We will also do an interecption analysis on the data above to determine which team starts strong and which one finishes strong and when, also if, those trends intercept.
-          We will be updating this page with more insights as they are developed.</p>
+          We will be updating this page with more insights as they are developed.
+          If things change in the frist few mintues you can re-order and calculate again.
+        </p>
       </b-col>
     </b-row>
     <b-row v-if="!full">
@@ -154,7 +155,6 @@
               Near the end of the match <span v-if="sumary.end.team === 1" class="text-success">Radiant</span><span v-if="sumary.end.team === 2" class="text-danger">Dire</span> will have a ~{{sumary.end.delta}}% advantage.
             </template>
           </template>
-          
         </p>
       </b-col>
     </b-row>
