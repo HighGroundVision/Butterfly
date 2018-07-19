@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Hello from '@/components/Hello'
-import Draft from '@/components/Draft'
+import Dashboard from '@/components/Dashboard'
+import TeamStrength from '@/components/TeamStrength'
 
 Vue.use(Router)
 
@@ -9,13 +9,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'Hello',
-      component: Hello
+      name: 'Dashboard',
+      component: Dashboard
     },
     {
-      path: '/draft',
-      name: 'Draft',
-      component: Draft
+      path: '/TeamStrength',
+      name: 'TeamStrength',
+      component: TeamStrength
     }
   ]
 })

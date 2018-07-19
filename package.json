@@ -1,7 +1,7 @@
 {
   "name": "butterfly",
   "version": "1.0.0",
-  "description": "All Pick Draft Strength Check",
+  "description": "Dota2 Team Coordinator",
   "author": "Jamie Webster",
   "private": true,
   "scripts": {

@@ -2,4 +2,9 @@
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#0b1425;
+  color: white;
+}
+hr.highlighted {
+  border-color: #ffc107;
 }
