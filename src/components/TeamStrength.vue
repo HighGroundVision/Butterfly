@@ -180,7 +180,7 @@
 
 <script>
 import axios from 'axios'
-import {getRandomEndingOption} from '@/assets/main'
+// import {getRandomEndingOption} from '@/assets/main'
 import draggable from 'vuedraggable'
 import { GChart } from 'vue-google-charts'
 import lsq from 'least-squares' // https://github.com/jprichardson/least-squares
@@ -393,7 +393,9 @@ export default {
       return heroes
     },
     full () {
-      return (this.heroes.length === 105)
+      var radiantCount = this.teams.radiant.safe.length + this.teams.radiant.mid.length + this.teams.radiant.off.length
+      var direCount = this.teams.dire.safe.length + this.teams.dire.mid.length + this.teams.dire.off.length
+      return radiantCount === 5 && direCount === 5
     }
   },
   data () {
@@ -437,20 +439,33 @@ export default {
         'height': 300,
         'hAxis': {
           'title': 'Time',
-          // 'ticks': [0, 15, 30, 45, 60, 75, 90]
+          'titleTextStyle': {
+            'fontSize': 20
+          },
           'ticks': [
             {v: 0, f: ''},
-            {v: 15, f: 'Early Game'},
-            {v: 30, f: 'Mid Game'},
-            {v: 45, f: 'Late Game'},
-            {v: 60, f: 'End Game'},
-            {v: 75, f: getRandomEndingOption()},
+            {v: 15, f: 'Laning [0-15]'},
+            {v: 30, f: 'Early Game [15-30]'},
+            {v: 45, f: 'Mid Game [30-45]'},
+            {v: 60, f: 'Late Game [45-60]'},
+            {v: 75, f: 'End Game [60+]'},
             {v: 90, f: ''}
           ]
         },
         'vAxis': {
           'title': 'Strength',
-          'ticks': [30, 40, 45, 50, 55, 60, 70]
+          'titleTextStyle': {
+            'fontSize': 20
+          },
+          'ticks': [
+            {v: 30, f: '30%'},
+            {v: 40, f: '40%'},
+            {v: 45, f: '45%'},
+            {v: 50, f: '50%'},
+            {v: 55, f: '55%'},
+            {v: 60, f: '50%'},
+            {v: 70, f: '70%'}
+          ]
         },
         'colors': ['#007329', '#AB0D06'],
         'trendlines': {
