@@ -13,14 +13,14 @@
           <p>
             Team Strength analysis is a complex topic. 
             We tend to refer to this tool internaly as the <span title="H'FAW">"How Fucked Are We"</span>. 
-            We will break down your team's strenght vs the enemy team over time and graphed the result.
-            We will also do an interecption analysis on the data above to determine which team starts strong and which one finishes strong and when, also if, those trends intercept.
+            This tool breaks down your team's strenght vs the enemy team over time and graphed the result.
+            It also do an interecption analysis on the data above to determine which team starts strong and which one finishes strong and when, also if, those trends intercept.
           </p>
           <p>
             You start by selecting the heroes. 
             You then order them (using Drag & Drop) into the lanes based on the start of match.
-            After you hit that Calculate to view the results. 
-            You can change up the lanes to match changes as the develop in the start of the match and recalculate to view the new results.
+            After you hit Calculate to view the results. 
+            You can change up the lanes to match changes as they develop in the start of the match and recalculate to view the new results.
           </p>
         </b-col>
       </b-row>
