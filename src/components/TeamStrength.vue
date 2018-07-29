@@ -145,7 +145,7 @@
       <br />
       <b-row v-if="calculated">
         <b-col>
-          <h5>Insights: <small>So what dose this all mean?</small></h5>
+          <h5>Insights: <small>On Average</small></h5>
           <p>
             <template v-if="sumary.start.delta < 3 && sumary.end.delta < 3">
               Both teams appear to be evenly matched, this match go could either way.
