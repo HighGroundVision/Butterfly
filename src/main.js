@@ -13,6 +13,7 @@ import Loader from 'vue-spinner/src/PulseLoader.vue'
 // CSS
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+import '@/assets/boostrap.min.css'
 import '@/assets/main.css'
 
 Vue.use(BootstrapVue)
