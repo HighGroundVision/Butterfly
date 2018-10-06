@@ -233,6 +233,7 @@ export default {
       }
     },
     getRadaintWinRate () {
+      debugger
       let time = [900, 1800, 2700, 3600, 5400]
       let team = []
 
@@ -483,11 +484,6 @@ export default {
     Promise.all([p1, p2]).then((values) => {
       const heroes = values[0]
       const data = values[1]
-
-      for (let i = 0; i < heroes.length; i++) {
-        const hero = heroes[i]
-        hero.icon = hero.icon = hero.img.replace('/banner/', '/icons/')
-      }
 
       vm.heroes = heroes
       vm.data = data
