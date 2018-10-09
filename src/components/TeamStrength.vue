@@ -233,7 +233,6 @@ export default {
       }
     },
     getRadaintWinRate () {
-      debugger
       let time = [900, 1800, 2700, 3600, 5400]
       let team = []
 
