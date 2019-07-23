@@ -7,8 +7,10 @@
         <b-navbar-brand to="/">[HGV] Team Coordinator</b-navbar-brand>
         <b-collapse is-nav id="nav_collapse">
           <b-navbar-nav class="mr-auto">
-            <b-nav-item to="/">Team Synergies</b-nav-item>
-            <b-nav-item to="/">Lane Optimizer</b-nav-item>
+            <!--
+              <b-nav-item to="/">Team Synergies</b-nav-item>
+              <b-nav-item to="/">Lane Optimizer</b-nav-item>
+            -->
             <b-nav-item to="/TeamStrength">Team Strength</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
