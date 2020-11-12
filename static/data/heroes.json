@@ -1,930 +1,929 @@
 [{
-  "id": 1,
-  "name": "Anti-Mage",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_antimage.png",
-  "key": "npc_dota_hero_antimage",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 2,
-  "name": "Axe",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_axe.png",
-  "key": "npc_dota_hero_axe",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 3,
-  "name": "Bane",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_bane.png",
-  "key": "npc_dota_hero_bane",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 4,
-  "name": "Bloodseeker",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_bloodseeker.png",
-  "key": "npc_dota_hero_bloodseeker",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 5,
-  "name": "Crystal Maiden",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_crystal_maiden.png",
-  "key": "npc_dota_hero_crystal_maiden",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 6,
-  "name": "Drow Ranger",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_drow_ranger.png",
-  "key": "npc_dota_hero_drow_ranger",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 7,
-  "name": "Earthshaker",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_earthshaker.png",
-  "key": "npc_dota_hero_earthshaker",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 8,
-  "name": "Juggernaut",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_juggernaut.png",
-  "key": "npc_dota_hero_juggernaut",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 9,
-  "name": "Mirana",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_mirana.png",
-  "key": "npc_dota_hero_mirana",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 10,
-  "name": "Morphling",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_morphling.png",
-  "key": "npc_dota_hero_morphling",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 11,
-  "name": "Shadow Fiend",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_nevermore.png",
-  "key": "npc_dota_hero_nevermore",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 12,
-  "name": "Phantom Lancer",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_phantom_lancer.png",
-  "key": "npc_dota_hero_phantom_lancer",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 13,
-  "name": "Puck",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_puck.png",
-  "key": "npc_dota_hero_puck",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 14,
-  "name": "Pudge",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_pudge.png",
-  "key": "npc_dota_hero_pudge",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 15,
-  "name": "Razor",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_razor.png",
-  "key": "npc_dota_hero_razor",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 16,
-  "name": "Sand King",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_sand_king.png",
-  "key": "npc_dota_hero_sand_king",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 17,
-  "name": "Storm Spirit",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_storm_spirit.png",
-  "key": "npc_dota_hero_storm_spirit",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 18,
-  "name": "Sven",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_sven.png",
-  "key": "npc_dota_hero_sven",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 19,
-  "name": "Tiny",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_tiny.png",
-  "key": "npc_dota_hero_tiny",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 20,
-  "name": "Vengeful Spirit",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_vengefulspirit.png",
-  "key": "npc_dota_hero_vengefulspirit",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 21,
-  "name": "Windranger",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_windrunner.png",
-  "key": "npc_dota_hero_windrunner",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 22,
-  "name": "Zeus",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_zuus.png",
-  "key": "npc_dota_hero_zuus",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 23,
-  "name": "Kunkka",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_kunkka.png",
-  "key": "npc_dota_hero_kunkka",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 25,
-  "name": "Lina",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_lina.png",
-  "key": "npc_dota_hero_lina",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 26,
-  "name": "Lion",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_lion.png",
-  "key": "npc_dota_hero_lion",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 27,
-  "name": "Shadow Shaman",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_shadow_shaman.png",
-  "key": "npc_dota_hero_shadow_shaman",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 28,
-  "name": "Slardar",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_slardar.png",
-  "key": "npc_dota_hero_slardar",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 29,
-  "name": "Tidehunter",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_tidehunter.png",
-  "key": "npc_dota_hero_tidehunter",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 30,
-  "name": "Witch Doctor",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_witch_doctor.png",
-  "key": "npc_dota_hero_witch_doctor",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 31,
-  "name": "Lich",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_lich.png",
-  "key": "npc_dota_hero_lich",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 32,
-  "name": "Riki",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_riki.png",
-  "key": "npc_dota_hero_riki",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 33,
-  "name": "Enigma",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_enigma.png",
-  "key": "npc_dota_hero_enigma",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 34,
-  "name": "Tinker",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_tinker.png",
-  "key": "npc_dota_hero_tinker",
-  "attack": 1,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 35,
-  "name": "Sniper",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_sniper.png",
-  "key": "npc_dota_hero_sniper",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 36,
-  "name": "Necrophos",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_necrolyte.png",
-  "key": "npc_dota_hero_necrolyte",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 37,
-  "name": "Warlock",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_warlock.png",
-  "key": "npc_dota_hero_warlock",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 38,
-  "name": "Beastmaster",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_beastmaster.png",
-  "key": "npc_dota_hero_beastmaster",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 39,
-  "name": "Queen of Pain",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_queenofpain.png",
-  "key": "npc_dota_hero_queenofpain",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 40,
-  "name": "Venomancer",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_venomancer.png",
-  "key": "npc_dota_hero_venomancer",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 41,
-  "name": "Faceless Void",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_faceless_void.png",
-  "key": "npc_dota_hero_faceless_void",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 42,
-  "name": "Wraith King",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_skeleton_king.png",
-  "key": "npc_dota_hero_skeleton_king",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 43,
-  "name": "Death Prophet",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_death_prophet.png",
-  "key": "npc_dota_hero_death_prophet",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 44,
-  "name": "Phantom Assassin",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_phantom_assassin.png",
-  "key": "npc_dota_hero_phantom_assassin",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 45,
-  "name": "Pugna",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_pugna.png",
-  "key": "npc_dota_hero_pugna",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 46,
-  "name": "Templar Assassin",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_templar_assassin.png",
-  "key": "npc_dota_hero_templar_assassin",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 47,
-  "name": "Viper",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_viper.png",
-  "key": "npc_dota_hero_viper",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 48,
-  "name": "Luna",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_luna.png",
-  "key": "npc_dota_hero_luna",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 49,
-  "name": "Dragon Knight",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_dragon_knight.png",
-  "key": "npc_dota_hero_dragon_knight",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 50,
-  "name": "Dazzle",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_dazzle.png",
-  "key": "npc_dota_hero_dazzle",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 51,
-  "name": "Clockwerk",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_rattletrap.png",
-  "key": "npc_dota_hero_rattletrap",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 52,
-  "name": "Leshrac",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_leshrac.png",
-  "key": "npc_dota_hero_leshrac",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 53,
-  "name": "Nature's Prophet",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_furion.png",
-  "key": "npc_dota_hero_furion",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 54,
-  "name": "Lifestealer",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_life_stealer.png",
-  "key": "npc_dota_hero_life_stealer",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 55,
-  "name": "Dark Seer",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_dark_seer.png",
-  "key": "npc_dota_hero_dark_seer",
-  "attack": 1,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 56,
-  "name": "Clinkz",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_clinkz.png",
-  "key": "npc_dota_hero_clinkz",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 57,
-  "name": "Omniknight",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_omniknight.png",
-  "key": "npc_dota_hero_omniknight",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 58,
-  "name": "Enchantress",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_enchantress.png",
-  "key": "npc_dota_hero_enchantress",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 59,
-  "name": "Huskar",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_huskar.png",
-  "key": "npc_dota_hero_huskar",
-  "attack": 2,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 60,
-  "name": "Night Stalker",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_night_stalker.png",
-  "key": "npc_dota_hero_night_stalker",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 61,
-  "name": "Broodmother",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_broodmother.png",
-  "key": "npc_dota_hero_broodmother",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 62,
-  "name": "Bounty Hunter",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_bounty_hunter.png",
-  "key": "npc_dota_hero_bounty_hunter",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 63,
-  "name": "Weaver",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_weaver.png",
-  "key": "npc_dota_hero_weaver",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 64,
-  "name": "Jakiro",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_jakiro.png",
-  "key": "npc_dota_hero_jakiro",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 65,
-  "name": "Batrider",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_batrider.png",
-  "key": "npc_dota_hero_batrider",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 66,
-  "name": "Chen",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_chen.png",
-  "key": "npc_dota_hero_chen",
-  "attack": 1,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 67,
-  "name": "Spectre",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_spectre.png",
-  "key": "npc_dota_hero_spectre",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 68,
-  "name": "Ancient Apparition",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_ancient_apparition.png",
-  "key": "npc_dota_hero_ancient_apparition",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 69,
-  "name": "Doom",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_doom_bringer.png",
-  "key": "npc_dota_hero_doom_bringer",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 70,
-  "name": "Ursa",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_ursa.png",
-  "key": "npc_dota_hero_ursa",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 71,
-  "name": "Spirit Breaker",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_spirit_breaker.png",
-  "key": "npc_dota_hero_spirit_breaker",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 72,
-  "name": "Gyrocopter",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_gyrocopter.png",
-  "key": "npc_dota_hero_gyrocopter",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 73,
-  "name": "Alchemist",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_alchemist.png",
-  "key": "npc_dota_hero_alchemist",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 74,
-  "name": "Invoker",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_invoker.png",
-  "key": "npc_dota_hero_invoker",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 75,
-  "name": "Silencer",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_silencer.png",
-  "key": "npc_dota_hero_silencer",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 76,
-  "name": "Outworld Devourer",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_obsidian_destroyer.png",
-  "key": "npc_dota_hero_obsidian_destroyer",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 77,
-  "name": "Lycan",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_lycan.png",
-  "key": "npc_dota_hero_lycan",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 78,
-  "name": "Brewmaster",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_brewmaster.png",
-  "key": "npc_dota_hero_brewmaster",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 79,
-  "name": "Shadow Demon",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_shadow_demon.png",
-  "key": "npc_dota_hero_shadow_demon",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 80,
-  "name": "Lone Druid",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_lone_druid.png",
-  "key": "npc_dota_hero_lone_druid",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 81,
-  "name": "Chaos Knight",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_chaos_knight.png",
-  "key": "npc_dota_hero_chaos_knight",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 82,
-  "name": "Meepo",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_meepo.png",
-  "key": "npc_dota_hero_meepo",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 83,
-  "name": "Treant Protector",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_treant.png",
-  "key": "npc_dota_hero_treant",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 84,
-  "name": "Ogre Magi",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_ogre_magi.png",
-  "key": "npc_dota_hero_ogre_magi",
-  "attack": 1,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 85,
-  "name": "Undying",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_undying.png",
-  "key": "npc_dota_hero_undying",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 86,
-  "name": "Rubick",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_rubick.png",
-  "key": "npc_dota_hero_rubick",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 87,
-  "name": "Disruptor",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_disruptor.png",
-  "key": "npc_dota_hero_disruptor",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 88,
-  "name": "Nyx Assassin",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_nyx_assassin.png",
-  "key": "npc_dota_hero_nyx_assassin",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 89,
-  "name": "Naga Siren",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_naga_siren.png",
-  "key": "npc_dota_hero_naga_siren",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 90,
-  "name": "Keeper of the Light",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_keeper_of_the_light.png",
-  "key": "npc_dota_hero_keeper_of_the_light",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 91,
-  "name": "Io",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_wisp.png",
-  "key": "npc_dota_hero_wisp",
-  "attack": 2,
-  "primary": 1,
-  "position": 0
-},{
-  "id": 92,
-  "name": "Visage",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_visage.png",
-  "key": "npc_dota_hero_visage",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 93,
-  "name": "Slark",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_slark.png",
-  "key": "npc_dota_hero_slark",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 94,
-  "name": "Medusa",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_medusa.png",
-  "key": "npc_dota_hero_medusa",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 95,
-  "name": "Troll Warlord",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_troll_warlord.png",
-  "key": "npc_dota_hero_troll_warlord",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 96,
-  "name": "Centaur Warrunner",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_centaur.png",
-  "key": "npc_dota_hero_centaur",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 97,
-  "name": "Magnus",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_magnataur.png",
-  "key": "npc_dota_hero_magnataur",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 98,
-  "name": "Timbersaw",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_shredder.png",
-  "key": "npc_dota_hero_shredder",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 99,
-  "name": "Bristleback",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_bristleback.png",
-  "key": "npc_dota_hero_bristleback",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 100,
-  "name": "Tusk",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_tusk.png",
-  "key": "npc_dota_hero_tusk",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 101,
-  "name": "Skywrath Mage",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_skywrath_mage.png",
-  "key": "npc_dota_hero_skywrath_mage",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 102,
-  "name": "Abaddon",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_abaddon.png",
-  "key": "npc_dota_hero_abaddon",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 103,
-  "name": "Elder Titan",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_elder_titan.png",
-  "key": "npc_dota_hero_elder_titan",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 104,
-  "name": "Legion Commander",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_legion_commander.png",
-  "key": "npc_dota_hero_legion_commander",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 105,
-  "name": "Techies",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_techies.png",
-  "key": "npc_dota_hero_techies",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 106,
-  "name": "Ember Spirit",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_ember_spirit.png",
-  "key": "npc_dota_hero_ember_spirit",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 107,
-  "name": "Earth Spirit",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_earth_spirit.png",
-  "key": "npc_dota_hero_earth_spirit",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 108,
-  "name": "Underlord",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_abyssal_underlord.png",
-  "key": "npc_dota_hero_abyssal_underlord",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 109,
-  "name": "Terrorblade",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_terrorblade.png",
-  "key": "npc_dota_hero_terrorblade",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 110,
-  "name": "Phoenix",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_phoenix.png",
-  "key": "npc_dota_hero_phoenix",
-  "attack": 1,
-  "primary": 1,
-  "position": 0
-}, {
-  "id": 111,
-  "name": "Oracle",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_oracle.png",
-  "key": "npc_dota_hero_oracle",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 112,
-  "name": "Winter Wyvern",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_winter_wyvern.png",
-  "key": "npc_dota_hero_winter_wyvern",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 113,
-  "name": "Arc Warden",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_arc_warden.png",
-  "key": "npc_dota_hero_arc_warden",
-  "attack": 2,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 114,
-  "name": "Monkey King",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_monkey_king.png",
-  "key": "npc_dota_hero_monkey_king",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-}, {
-  "id": 119,
-  "name": "Dark Willow",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_dark_willow.png",
-  "key": "npc_dota_hero_dark_willow",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}, {
-  "id": 120,
-  "name": "Pangolier",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_pangolier.png",
-  "key": "npc_dota_hero_pangolier",
-  "attack": 1,
-  "primary": 2,
-  "position": 0
-} , {
-  "id": 121,
-  "name": "Grimstroke",
-  "icon": "https://hgv-hyperstone.azurewebsites.net/heroes/icons/npc_dota_hero_grimstroke.png",
-  "key": "npc_dota_hero_grimstroke",
-  "attack": 2,
-  "primary": 3,
-  "position": 0
-}
-]
+    "id": 1,
+    "name": "Anti-Mage",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_antimage.png",
+    "key": "npc_dota_hero_antimage",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 2,
+    "name": "Axe",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_axe.png",
+    "key": "npc_dota_hero_axe",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 3,
+    "name": "Bane",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_bane.png",
+    "key": "npc_dota_hero_bane",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 4,
+    "name": "Bloodseeker",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_bloodseeker.png",
+    "key": "npc_dota_hero_bloodseeker",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 5,
+    "name": "Crystal Maiden",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_crystal_maiden.png",
+    "key": "npc_dota_hero_crystal_maiden",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 6,
+    "name": "Drow Ranger",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_drow_ranger.png",
+    "key": "npc_dota_hero_drow_ranger",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 7,
+    "name": "Earthshaker",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_earthshaker.png",
+    "key": "npc_dota_hero_earthshaker",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 8,
+    "name": "Juggernaut",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_juggernaut.png",
+    "key": "npc_dota_hero_juggernaut",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 9,
+    "name": "Mirana",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_mirana.png",
+    "key": "npc_dota_hero_mirana",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 10,
+    "name": "Morphling",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_morphling.png",
+    "key": "npc_dota_hero_morphling",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 11,
+    "name": "Shadow Fiend",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_nevermore.png",
+    "key": "npc_dota_hero_nevermore",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 12,
+    "name": "Phantom Lancer",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_phantom_lancer.png",
+    "key": "npc_dota_hero_phantom_lancer",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 13,
+    "name": "Puck",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_puck.png",
+    "key": "npc_dota_hero_puck",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 14,
+    "name": "Pudge",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_pudge.png",
+    "key": "npc_dota_hero_pudge",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 15,
+    "name": "Razor",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_razor.png",
+    "key": "npc_dota_hero_razor",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 16,
+    "name": "Sand King",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_sand_king.png",
+    "key": "npc_dota_hero_sand_king",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 17,
+    "name": "Storm Spirit",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_storm_spirit.png",
+    "key": "npc_dota_hero_storm_spirit",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 18,
+    "name": "Sven",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_sven.png",
+    "key": "npc_dota_hero_sven",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 19,
+    "name": "Tiny",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_tiny.png",
+    "key": "npc_dota_hero_tiny",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 20,
+    "name": "Vengeful Spirit",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_vengefulspirit.png",
+    "key": "npc_dota_hero_vengefulspirit",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 21,
+    "name": "Windranger",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_windrunner.png",
+    "key": "npc_dota_hero_windrunner",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 22,
+    "name": "Zeus",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_zuus.png",
+    "key": "npc_dota_hero_zuus",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 23,
+    "name": "Kunkka",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_kunkka.png",
+    "key": "npc_dota_hero_kunkka",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 25,
+    "name": "Lina",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_lina.png",
+    "key": "npc_dota_hero_lina",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 26,
+    "name": "Lion",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_lion.png",
+    "key": "npc_dota_hero_lion",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 27,
+    "name": "Shadow Shaman",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_shadow_shaman.png",
+    "key": "npc_dota_hero_shadow_shaman",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 28,
+    "name": "Slardar",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_slardar.png",
+    "key": "npc_dota_hero_slardar",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 29,
+    "name": "Tidehunter",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_tidehunter.png",
+    "key": "npc_dota_hero_tidehunter",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 30,
+    "name": "Witch Doctor",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_witch_doctor.png",
+    "key": "npc_dota_hero_witch_doctor",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 31,
+    "name": "Lich",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_lich.png",
+    "key": "npc_dota_hero_lich",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 32,
+    "name": "Riki",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_riki.png",
+    "key": "npc_dota_hero_riki",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 33,
+    "name": "Enigma",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_enigma.png",
+    "key": "npc_dota_hero_enigma",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 34,
+    "name": "Tinker",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_tinker.png",
+    "key": "npc_dota_hero_tinker",
+    "attack": 1,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 35,
+    "name": "Sniper",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_sniper.png",
+    "key": "npc_dota_hero_sniper",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 36,
+    "name": "Necrophos",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_necrolyte.png",
+    "key": "npc_dota_hero_necrolyte",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 37,
+    "name": "Warlock",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_warlock.png",
+    "key": "npc_dota_hero_warlock",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 38,
+    "name": "Beastmaster",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_beastmaster.png",
+    "key": "npc_dota_hero_beastmaster",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 39,
+    "name": "Queen of Pain",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_queenofpain.png",
+    "key": "npc_dota_hero_queenofpain",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 40,
+    "name": "Venomancer",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_venomancer.png",
+    "key": "npc_dota_hero_venomancer",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 41,
+    "name": "Faceless Void",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_faceless_void.png",
+    "key": "npc_dota_hero_faceless_void",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 42,
+    "name": "Wraith King",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_skeleton_king.png",
+    "key": "npc_dota_hero_skeleton_king",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 43,
+    "name": "Death Prophet",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_death_prophet.png",
+    "key": "npc_dota_hero_death_prophet",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 44,
+    "name": "Phantom Assassin",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_phantom_assassin.png",
+    "key": "npc_dota_hero_phantom_assassin",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 45,
+    "name": "Pugna",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_pugna.png",
+    "key": "npc_dota_hero_pugna",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 46,
+    "name": "Templar Assassin",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_templar_assassin.png",
+    "key": "npc_dota_hero_templar_assassin",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 47,
+    "name": "Viper",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_viper.png",
+    "key": "npc_dota_hero_viper",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 48,
+    "name": "Luna",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_luna.png",
+    "key": "npc_dota_hero_luna",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 49,
+    "name": "Dragon Knight",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_dragon_knight.png",
+    "key": "npc_dota_hero_dragon_knight",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 50,
+    "name": "Dazzle",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_dazzle.png",
+    "key": "npc_dota_hero_dazzle",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 51,
+    "name": "Clockwerk",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_rattletrap.png",
+    "key": "npc_dota_hero_rattletrap",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 52,
+    "name": "Leshrac",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_leshrac.png",
+    "key": "npc_dota_hero_leshrac",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 53,
+    "name": "Nature's Prophet",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_furion.png",
+    "key": "npc_dota_hero_furion",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 54,
+    "name": "Lifestealer",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_life_stealer.png",
+    "key": "npc_dota_hero_life_stealer",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 55,
+    "name": "Dark Seer",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_dark_seer.png",
+    "key": "npc_dota_hero_dark_seer",
+    "attack": 1,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 56,
+    "name": "Clinkz",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_clinkz.png",
+    "key": "npc_dota_hero_clinkz",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 57,
+    "name": "Omniknight",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_omniknight.png",
+    "key": "npc_dota_hero_omniknight",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 58,
+    "name": "Enchantress",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_enchantress.png",
+    "key": "npc_dota_hero_enchantress",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 59,
+    "name": "Huskar",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_huskar.png",
+    "key": "npc_dota_hero_huskar",
+    "attack": 2,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 60,
+    "name": "Night Stalker",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_night_stalker.png",
+    "key": "npc_dota_hero_night_stalker",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 61,
+    "name": "Broodmother",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_broodmother.png",
+    "key": "npc_dota_hero_broodmother",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 62,
+    "name": "Bounty Hunter",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_bounty_hunter.png",
+    "key": "npc_dota_hero_bounty_hunter",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 63,
+    "name": "Weaver",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_weaver.png",
+    "key": "npc_dota_hero_weaver",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 64,
+    "name": "Jakiro",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_jakiro.png",
+    "key": "npc_dota_hero_jakiro",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 65,
+    "name": "Batrider",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_batrider.png",
+    "key": "npc_dota_hero_batrider",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 66,
+    "name": "Chen",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_chen.png",
+    "key": "npc_dota_hero_chen",
+    "attack": 1,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 67,
+    "name": "Spectre",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_spectre.png",
+    "key": "npc_dota_hero_spectre",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 68,
+    "name": "Ancient Apparition",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_ancient_apparition.png",
+    "key": "npc_dota_hero_ancient_apparition",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 69,
+    "name": "Doom",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_doom_bringer.png",
+    "key": "npc_dota_hero_doom_bringer",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 70,
+    "name": "Ursa",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_ursa.png",
+    "key": "npc_dota_hero_ursa",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 71,
+    "name": "Spirit Breaker",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_spirit_breaker.png",
+    "key": "npc_dota_hero_spirit_breaker",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 72,
+    "name": "Gyrocopter",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_gyrocopter.png",
+    "key": "npc_dota_hero_gyrocopter",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 73,
+    "name": "Alchemist",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_alchemist.png",
+    "key": "npc_dota_hero_alchemist",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 74,
+    "name": "Invoker",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_invoker.png",
+    "key": "npc_dota_hero_invoker",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 75,
+    "name": "Silencer",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_silencer.png",
+    "key": "npc_dota_hero_silencer",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 76,
+    "name": "Outworld Devourer",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_obsidian_destroyer.png",
+    "key": "npc_dota_hero_obsidian_destroyer",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 77,
+    "name": "Lycan",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_lycan.png",
+    "key": "npc_dota_hero_lycan",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 78,
+    "name": "Brewmaster",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_brewmaster.png",
+    "key": "npc_dota_hero_brewmaster",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 79,
+    "name": "Shadow Demon",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_shadow_demon.png",
+    "key": "npc_dota_hero_shadow_demon",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 80,
+    "name": "Lone Druid",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_lone_druid.png",
+    "key": "npc_dota_hero_lone_druid",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 81,
+    "name": "Chaos Knight",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_chaos_knight.png",
+    "key": "npc_dota_hero_chaos_knight",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 82,
+    "name": "Meepo",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_meepo.png",
+    "key": "npc_dota_hero_meepo",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 83,
+    "name": "Treant Protector",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_treant.png",
+    "key": "npc_dota_hero_treant",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 84,
+    "name": "Ogre Magi",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_ogre_magi.png",
+    "key": "npc_dota_hero_ogre_magi",
+    "attack": 1,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 85,
+    "name": "Undying",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_undying.png",
+    "key": "npc_dota_hero_undying",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 86,
+    "name": "Rubick",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_rubick.png",
+    "key": "npc_dota_hero_rubick",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 87,
+    "name": "Disruptor",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_disruptor.png",
+    "key": "npc_dota_hero_disruptor",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 88,
+    "name": "Nyx Assassin",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_nyx_assassin.png",
+    "key": "npc_dota_hero_nyx_assassin",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 89,
+    "name": "Naga Siren",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_naga_siren.png",
+    "key": "npc_dota_hero_naga_siren",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 90,
+    "name": "Keeper of the Light",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_keeper_of_the_light.png",
+    "key": "npc_dota_hero_keeper_of_the_light",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 91,
+    "name": "Io",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_wisp.png",
+    "key": "npc_dota_hero_wisp",
+    "attack": 2,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 92,
+    "name": "Visage",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_visage.png",
+    "key": "npc_dota_hero_visage",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 93,
+    "name": "Slark",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_slark.png",
+    "key": "npc_dota_hero_slark",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 94,
+    "name": "Medusa",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_medusa.png",
+    "key": "npc_dota_hero_medusa",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 95,
+    "name": "Troll Warlord",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_troll_warlord.png",
+    "key": "npc_dota_hero_troll_warlord",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 96,
+    "name": "Centaur Warrunner",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_centaur.png",
+    "key": "npc_dota_hero_centaur",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 97,
+    "name": "Magnus",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_magnataur.png",
+    "key": "npc_dota_hero_magnataur",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 98,
+    "name": "Timbersaw",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_shredder.png",
+    "key": "npc_dota_hero_shredder",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 99,
+    "name": "Bristleback",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_bristleback.png",
+    "key": "npc_dota_hero_bristleback",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 100,
+    "name": "Tusk",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_tusk.png",
+    "key": "npc_dota_hero_tusk",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 101,
+    "name": "Skywrath Mage",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_skywrath_mage.png",
+    "key": "npc_dota_hero_skywrath_mage",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 102,
+    "name": "Abaddon",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_abaddon.png",
+    "key": "npc_dota_hero_abaddon",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 103,
+    "name": "Elder Titan",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_elder_titan.png",
+    "key": "npc_dota_hero_elder_titan",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 104,
+    "name": "Legion Commander",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_legion_commander.png",
+    "key": "npc_dota_hero_legion_commander",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 105,
+    "name": "Techies",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_techies.png",
+    "key": "npc_dota_hero_techies",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 106,
+    "name": "Ember Spirit",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_ember_spirit.png",
+    "key": "npc_dota_hero_ember_spirit",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 107,
+    "name": "Earth Spirit",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_earth_spirit.png",
+    "key": "npc_dota_hero_earth_spirit",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 108,
+    "name": "Underlord",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_abyssal_underlord.png",
+    "key": "npc_dota_hero_abyssal_underlord",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 109,
+    "name": "Terrorblade",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_terrorblade.png",
+    "key": "npc_dota_hero_terrorblade",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 110,
+    "name": "Phoenix",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_phoenix.png",
+    "key": "npc_dota_hero_phoenix",
+    "attack": 1,
+    "primary": 1,
+    "position": 0
+}, {
+    "id": 111,
+    "name": "Oracle",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_oracle.png",
+    "key": "npc_dota_hero_oracle",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 112,
+    "name": "Winter Wyvern",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_winter_wyvern.png",
+    "key": "npc_dota_hero_winter_wyvern",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 113,
+    "name": "Arc Warden",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_arc_warden.png",
+    "key": "npc_dota_hero_arc_warden",
+    "attack": 2,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 114,
+    "name": "Monkey King",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_monkey_king.png",
+    "key": "npc_dota_hero_monkey_king",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 119,
+    "name": "Dark Willow",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_dark_willow.png",
+    "key": "npc_dota_hero_dark_willow",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}, {
+    "id": 120,
+    "name": "Pangolier",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_pangolier.png",
+    "key": "npc_dota_hero_pangolier",
+    "attack": 1,
+    "primary": 2,
+    "position": 0
+}, {
+    "id": 121,
+    "name": "Grimstroke",
+    "icon": "https://hyperstone.highgroundvision.com/images/heroes/icons/npc_dota_hero_grimstroke.png",
+    "key": "npc_dota_hero_grimstroke",
+    "attack": 2,
+    "primary": 3,
+    "position": 0
+}]
