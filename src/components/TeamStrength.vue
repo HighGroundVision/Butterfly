@@ -478,8 +478,8 @@ export default {
   created () {
     const vm = this
 
-    let p1 = axios.get('/static/data/heroes.json').then((reponse) => { return reponse.data })
-    let p2 = axios.get('/static/data/hero_winrate_lane_duration.json').then((reponse) => { return reponse.data })
+    let p1 = axios.get('/static/data/heroes.v1.json').then((reponse) => { return reponse.data })
+    let p2 = axios.get('/static/data/hero_winrate_lane_duration.v1.json').then((reponse) => { return reponse.data })
     Promise.all([p1, p2]).then((values) => {
       const heroes = values[0]
       const data = values[1]
